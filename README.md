@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- View Solution URL: [Click Here!]()
-- View Live Site: [Click Here!]()
+- View Solution URL: [Click Here!](https://www.frontendmentor.io/solutions/social-proof-section-solution-71lqI9wTaf)
+- View Live Site: [Click Here!](https://umesiqueen.github.io/Social-Proof-Section/)
 
 ## My process
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [UmesiQueen]](https://umesiqueen.github.io/UmesiQueen/)
+- Website - [UmesiQueen](https://umesiqueen.github.io/UmesiQueen/)
 - Frontend Mentor - [@UmesiQueen](https://www.frontendmentor.io/profile/UmesiQueen)
 - Twitter - [@UmesiQueen](https://www.twitter.com/UmesiQueen)
 
